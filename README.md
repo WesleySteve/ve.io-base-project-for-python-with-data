@@ -1,3 +1,4 @@
-# ve.io-base_project_for_python
+# ve.io-base_project_for_python-with-data
 
-- This project aims to serve as a basis for the development of other projects.
+- The objective of this project is to present a proposal for a base structure
+   for data projects.
